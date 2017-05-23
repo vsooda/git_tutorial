@@ -1,6 +1,6 @@
 #include "util.h"
 
-int add(int a, int b) {
+int addFunc(int a, int b) {
    return a + b; 
 }
 
