@@ -8,6 +8,10 @@ int minusFunc(int a, int b) {
     return a - b;
 }
 
+int divFunc(int a, int b) {
+    return a / b;
+}
+
 int multiFunc(int a, int b) {
     return a * b;
 }
